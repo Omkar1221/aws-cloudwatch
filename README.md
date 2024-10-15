@@ -35,10 +35,6 @@ Scalability: Automatically scaling resources based on demand to ensure optimal p
 
 ![3](https://github.com/user-attachments/assets/36d86456-6cbc-46cb-8fae-4c5374ac25d0)
 
-![3a](https://github.com/user-attachments/assets/4b7ba688-fba2-4942-9848-bcfe9d8b683b)
-
-![3b](https://github.com/user-attachments/assets/796c5b62-c8c6-4efe-989d-af5a115055ab)
-![3c](https://github.com/user-attachments/assets/981432f1-9ea0-47ad-8276-7ba643bf4753)
 
 
 
